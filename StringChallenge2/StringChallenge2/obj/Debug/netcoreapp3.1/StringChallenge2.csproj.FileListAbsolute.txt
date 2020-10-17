@@ -1,0 +1,13 @@
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\bin\Debug\netcoreapp3.1\StringChallenge2.exe
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\bin\Debug\netcoreapp3.1\StringChallenge2.deps.json
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\bin\Debug\netcoreapp3.1\StringChallenge2.runtimeconfig.json
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\bin\Debug\netcoreapp3.1\StringChallenge2.runtimeconfig.dev.json
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\bin\Debug\netcoreapp3.1\StringChallenge2.dll
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\bin\Debug\netcoreapp3.1\StringChallenge2.pdb
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.csprojAssemblyReference.cache
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.AssemblyInfoInputs.cache
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.AssemblyInfo.cs
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.csproj.CoreCompileInputs.cache
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.dll
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.pdb
+C:\source\repository\ProjectsAndChallenges\StringChallenge2\StringChallenge2\obj\Debug\netcoreapp3.1\StringChallenge2.genruntimeconfig.cache

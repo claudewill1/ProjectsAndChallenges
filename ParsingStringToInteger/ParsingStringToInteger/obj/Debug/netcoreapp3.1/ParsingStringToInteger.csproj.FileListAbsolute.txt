@@ -1,0 +1,12 @@
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\bin\Debug\netcoreapp3.1\ParsingStringToInteger.exe
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\bin\Debug\netcoreapp3.1\ParsingStringToInteger.deps.json
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\bin\Debug\netcoreapp3.1\ParsingStringToInteger.runtimeconfig.json
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\bin\Debug\netcoreapp3.1\ParsingStringToInteger.runtimeconfig.dev.json
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\bin\Debug\netcoreapp3.1\ParsingStringToInteger.dll
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\bin\Debug\netcoreapp3.1\ParsingStringToInteger.pdb
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\obj\Debug\netcoreapp3.1\ParsingStringToInteger.AssemblyInfoInputs.cache
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\obj\Debug\netcoreapp3.1\ParsingStringToInteger.AssemblyInfo.cs
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\obj\Debug\netcoreapp3.1\ParsingStringToInteger.csproj.CoreCompileInputs.cache
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\obj\Debug\netcoreapp3.1\ParsingStringToInteger.dll
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\obj\Debug\netcoreapp3.1\ParsingStringToInteger.pdb
+C:\source\repository\ProjectsAndChallenges\ParsingStringToInteger\ParsingStringToInteger\obj\Debug\netcoreapp3.1\ParsingStringToInteger.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\bin\Debug\netcoreapp3.1\Introduction to Methods.exe
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\bin\Debug\netcoreapp3.1\Introduction to Methods.deps.json
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\bin\Debug\netcoreapp3.1\Introduction to Methods.runtimeconfig.json
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\bin\Debug\netcoreapp3.1\Introduction to Methods.runtimeconfig.dev.json
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\bin\Debug\netcoreapp3.1\Introduction to Methods.dll
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\bin\Debug\netcoreapp3.1\Introduction to Methods.pdb
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\obj\Debug\netcoreapp3.1\Introduction to Methods.AssemblyInfoInputs.cache
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\obj\Debug\netcoreapp3.1\Introduction to Methods.AssemblyInfo.cs
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\obj\Debug\netcoreapp3.1\Introduction to Methods.csproj.CoreCompileInputs.cache
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\obj\Debug\netcoreapp3.1\Introduction to Methods.dll
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\obj\Debug\netcoreapp3.1\Introduction to Methods.pdb
+C:\source\repository\ProjectsAndChallenges\Introduction to Methods\Introduction to Methods\obj\Debug\netcoreapp3.1\Introduction to Methods.genruntimeconfig.cache

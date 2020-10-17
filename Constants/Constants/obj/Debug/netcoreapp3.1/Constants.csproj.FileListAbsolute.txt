@@ -1,0 +1,12 @@
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.exe
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.deps.json
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.json
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.dev.json
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.dll
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.pdb
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfoInputs.cache
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfo.cs
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.csproj.CoreCompileInputs.cache
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.dll
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.pdb
+C:\source\repository\ProjectsAndChallenges\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.genruntimeconfig.cache

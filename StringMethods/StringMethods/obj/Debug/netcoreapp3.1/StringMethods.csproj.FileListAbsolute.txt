@@ -1,0 +1,12 @@
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.exe
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.deps.json
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.json
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.dev.json
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.dll
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.pdb
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfoInputs.cache
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfo.cs
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.CoreCompileInputs.cache
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.dll
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.pdb
+C:\source\repository\ProjectsAndChallenges\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.genruntimeconfig.cache

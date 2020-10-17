@@ -1,0 +1,13 @@
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\netcoreapp3.1\Implicit and Explicit Conversion.exe
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\netcoreapp3.1\Implicit and Explicit Conversion.deps.json
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\netcoreapp3.1\Implicit and Explicit Conversion.runtimeconfig.json
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\netcoreapp3.1\Implicit and Explicit Conversion.runtimeconfig.dev.json
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\netcoreapp3.1\Implicit and Explicit Conversion.dll
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\netcoreapp3.1\Implicit and Explicit Conversion.pdb
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.csprojAssemblyReference.cache
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.AssemblyInfoInputs.cache
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.AssemblyInfo.cs
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.csproj.CoreCompileInputs.cache
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.dll
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.pdb
+C:\source\repository\ProjectsAndChallenges\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\netcoreapp3.1\Implicit and Explicit Conversion.genruntimeconfig.cache
